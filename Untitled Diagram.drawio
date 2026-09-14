@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="kqQzXtQNbvJCFAgUb1XC">
+    <mxGraphModel dx="493" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_VP5GbObMdwfriaQP_ty-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bankas" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tiekėjai" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Partneriai" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vartotojai" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="UAB &quot;ŽVANGA&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="300" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-8" edge="1" parent="1" source="_VP5GbObMdwfriaQP_ty-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="_VP5GbObMdwfriaQP_ty-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="450" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-11" edge="1" parent="1" source="_VP5GbObMdwfriaQP_ty-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.142;entryY=-0.017;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" target="_VP5GbObMdwfriaQP_ty-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="450" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-12" edge="1" parent="1" source="_VP5GbObMdwfriaQP_ty-5" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.717;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" target="_VP5GbObMdwfriaQP_ty-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="450" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-13" edge="1" parent="1" source="_VP5GbObMdwfriaQP_ty-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.1;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.925;exitY=0.213;exitDx=0;exitDy=0;exitPerimeter=0;" target="_VP5GbObMdwfriaQP_ty-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="450" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-14" edge="1" parent="1" source="_VP5GbObMdwfriaQP_ty-3" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.8;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" target="_VP5GbObMdwfriaQP_ty-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="450" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-15" edge="1" parent="1" source="_VP5GbObMdwfriaQP_ty-2" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.05;entryY=0.213;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="_VP5GbObMdwfriaQP_ty-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="450" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="sourcePoint" />
+            <mxPoint x="360" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-17" connectable="0" parent="_VP5GbObMdwfriaQP_ty-16" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Žaliavos" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="460" as="sourcePoint" />
+            <mxPoint x="360" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-19" connectable="0" parent="_VP5GbObMdwfriaQP_ty-18" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Produktas" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="490" as="sourcePoint" />
+            <mxPoint x="360" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-24" connectable="0" parent="_VP5GbObMdwfriaQP_ty-23" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Išlaidos" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="520" as="sourcePoint" />
+            <mxPoint x="360" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-26" connectable="0" parent="_VP5GbObMdwfriaQP_ty-25" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Pajamos" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="550" as="sourcePoint" />
+            <mxPoint x="360" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-28" connectable="0" parent="_VP5GbObMdwfriaQP_ty-27" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Paslaugos" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="580" as="sourcePoint" />
+            <mxPoint x="360" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-31" connectable="0" parent="_VP5GbObMdwfriaQP_ty-30" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Sutartys" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="400" as="sourcePoint" />
+            <mxPoint x="360" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VP5GbObMdwfriaQP_ty-33" connectable="0" parent="_VP5GbObMdwfriaQP_ty-32" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" value="Žaliavos" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
