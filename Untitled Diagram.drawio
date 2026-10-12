@@ -1,107 +1,107 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="1" id="9qDRPRch2eErdXN5VdYo">
-    <mxGraphModel dx="1654" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PzrAUElVYzBtxREssI8v-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="UAB &quot;Žvanga&quot;" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;labelBackgroundColor=none;" value="UAB &quot;Žvanga&quot;" vertex="1">
           <mxGeometry height="80" width="120" x="140" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tiekėjai" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Tiekėjai" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Partneriai" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Partneriai" vertex="1">
           <mxGeometry height="60" width="120" x="270" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vartotojai" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Klientas" vertex="1">
           <mxGeometry height="60" width="120" x="260" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bankas" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Bankas" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-22" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="PzrAUElVYzBtxREssI8v-15" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-22" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-15" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="30" as="sourcePoint" />
             <mxPoint x="350" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-23" connectable="0" parent="PzrAUElVYzBtxREssI8v-22" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Lėšos" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-23" connectable="0" parent="PzrAUElVYzBtxREssI8v-22" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Lėšos" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-24" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-15" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="PzrAUElVYzBtxREssI8v-3" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-24" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-15" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-3" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="120" as="sourcePoint" />
             <mxPoint x="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-25" connectable="0" parent="PzrAUElVYzBtxREssI8v-24" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Lėšos" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-25" connectable="0" parent="PzrAUElVYzBtxREssI8v-24" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Lėšos" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-26" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="PzrAUElVYzBtxREssI8v-14" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-26" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-14" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="30" as="sourcePoint" />
             <mxPoint x="330" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-27" connectable="0" parent="PzrAUElVYzBtxREssI8v-26" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Paslaugos" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-27" connectable="0" parent="PzrAUElVYzBtxREssI8v-26" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Paslaugos" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-28" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-14" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PzrAUElVYzBtxREssI8v-3" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-28" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-14" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-3" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="40" as="sourcePoint" />
             <mxPoint x="210" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-29" connectable="0" parent="PzrAUElVYzBtxREssI8v-28" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Sutartys" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-29" connectable="0" parent="PzrAUElVYzBtxREssI8v-28" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Sutartys" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-31" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PzrAUElVYzBtxREssI8v-12" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-31" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-12" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="130" as="sourcePoint" />
             <mxPoint x="60" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-32" connectable="0" parent="PzrAUElVYzBtxREssI8v-31" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Sutartys" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-32" connectable="0" parent="PzrAUElVYzBtxREssI8v-31" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Sutartys" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-35" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="PzrAUElVYzBtxREssI8v-3" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-35" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-3" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="230" as="sourcePoint" />
             <mxPoint x="110" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-36" connectable="0" parent="PzrAUElVYzBtxREssI8v-35" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Žaliavos" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-36" connectable="0" parent="PzrAUElVYzBtxREssI8v-35" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Žaliavos" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-39" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-13" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="PzrAUElVYzBtxREssI8v-3" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-39" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-13" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-3" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="310" as="sourcePoint" />
             <mxPoint x="390" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-40" connectable="0" parent="PzrAUElVYzBtxREssI8v-39" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Paslaugos" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-40" connectable="0" parent="PzrAUElVYzBtxREssI8v-39" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Paslaugos" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-41" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PzrAUElVYzBtxREssI8v-13" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-41" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-13" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="120" as="sourcePoint" />
             <mxPoint x="350" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-42" connectable="0" parent="PzrAUElVYzBtxREssI8v-41" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Sutartys" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-42" connectable="0" parent="PzrAUElVYzBtxREssI8v-41" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Sutartys" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-91" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="PzrAUElVYzBtxREssI8v-13" value="">
+        <mxCell id="PzrAUElVYzBtxREssI8v-91" edge="1" parent="1" source="PzrAUElVYzBtxREssI8v-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="PzrAUElVYzBtxREssI8v-13" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="260" as="sourcePoint" />
             <mxPoint x="290" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PzrAUElVYzBtxREssI8v-92" connectable="0" parent="PzrAUElVYzBtxREssI8v-91" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Žaliavos" vertex="1">
+        <mxCell id="PzrAUElVYzBtxREssI8v-92" connectable="0" parent="PzrAUElVYzBtxREssI8v-91" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;" value="Žaliavos" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
